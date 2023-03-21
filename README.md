@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm Joshua Meeks
+<img src='https://www.codewars.com/users/JoshuaLearns2/badges/small' />
